@@ -5,7 +5,7 @@ let str_estudianteMayus = str_estudiante.toLocaleUpperCase();
 let str_estudianteMinus = str_estudiante.toLocaleLowerCase();
 let str_cant = str_estudiante.length;
 let str_PLNombre = str_Nombre[0];
-let str_ULApellido = str_Apellido[4];
+let str_ULApellido = str_Apellido.substring(str_Apellido.length - 1, str_Apellido.length);
 let str_SinEspacio = str_estudiante.split(" ").join("");
 
 
