@@ -6,17 +6,17 @@ const peliculas_favoritas = [
     {
         Titulo : "Piratas del Caribe La maldición del perla negra",
         Director : "Gore Verbinski",
-        Fecha : new Date(2003,7,17)
+        Fecha : new Date(2003,6,17)
     },
     {
         Titulo : "The Avengers",
         Director : "Joss Whedon",
-        Fecha : new Date(2012,4,26)
+        Fecha : new Date(2012,3,26)
     },
     {
         Titulo : "Star Wars: Episodio VIII",
         Director :"Rian Johnson",
-        Fecha : new Date(2017,12,14)
+        Fecha : new Date(2017,11,14)
     },
 ];
 
