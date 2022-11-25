@@ -16,6 +16,8 @@ function* generapares(){
 const sp = sin_parametros()
 console.log(sp)
 
+promesa();
+
 const gene = generapares()
 console.log(gene.next().value)
 console.log(gene.next().value)
