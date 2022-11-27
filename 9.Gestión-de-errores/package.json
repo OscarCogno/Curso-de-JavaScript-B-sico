@@ -1,0 +1,23 @@
+{
+  "name": "curso-de-javascript-basico",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OscarCogno/Curso-de-JavaScript-Basico.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OscarCogno/Curso-de-JavaScript-Basico/issues"
+  },
+  "homepage": "https://github.com/OscarCogno/Curso-de-JavaScript-Basico#readme",
+  "dependencies": {
+    "winston": "^3.8.2"
+  }
+}
